@@ -1,0 +1,18 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: #73a977;
+}
+
+.ui.borderless.bottommenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.bigtext {
+  font-size: 40px;
+}
+
+.colortext {
+  color: #f5f5f5;
+}
